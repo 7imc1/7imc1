@@ -1,16 +1,21 @@
-## Hi there 👋
+个人简介
+========
+Hello！👋我是陈毅，福州大学计算机科学与技术的一名学生，今年大三，希望在这个平台上与大家友好交流。
 
-<!--
-**7imc1/7imc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**兴趣爱好**
 
-Here are some ideas to get you started:
+听音乐，散步，游戏，旅行
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**技能**
+
+掌握c语言，c++两种编程语言，正在学习python
+
+积极准备数学竞赛，英语六级中
+
+**感兴趣的技术方向**
+
+对ai方面感兴趣，想要完善利用ai来制定个人导游，并进行愉快的旅行这方面功能。
+
+**未来三年展望**
+
+还是更倾向于准备考研，继续沉淀自我，然后再步入工作。
